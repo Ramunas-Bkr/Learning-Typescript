@@ -10,4 +10,5 @@ class Human {
 
 let user: Human = new Human('Ramunas', 88);
 
-console.log(user);
+let a;
+

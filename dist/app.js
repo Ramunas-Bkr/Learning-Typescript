@@ -5,5 +5,5 @@ class Human {
     }
 }
 let user = new Human('Ramunas', 88);
-console.log(user);
+let a;
 //# sourceMappingURL=app.js.map
